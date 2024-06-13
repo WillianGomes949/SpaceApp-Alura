@@ -8,6 +8,7 @@ const ContainerEstilizado = styled.div`
 
 
 const CampoTextoEstilizado = styled.input`
+    font-family: 'GandhiSansRegular';
     height: 56px;
     padding: 12px 16px;
     border-radius: 10px;
